@@ -10,3 +10,8 @@
 h1{
     font-family: 'Times New Roman', Times, serif;
 }
+
+img{
+    height: 5rem;
+    width: 10rem;
+}
